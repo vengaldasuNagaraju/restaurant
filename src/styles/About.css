@@ -1,0 +1,64 @@
+.about {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.aboutTop {
+  width: 100%;
+  height: 45%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.aboutBottom {
+  display: flex;
+  flex-direction: column;
+  height: 55%;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.aboutBottom p {
+  width: 1200px;
+}
+
+.about .aboutBottom h1 {
+  font-weight: 400;
+  font-size: 70px;
+  color: black;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  transform: translateY(-40px);
+}
+
+@media only screen and (max-width: 700px) {
+  .aboutBottom p {
+    width: 90%; /* Adjusts width to fit smaller screens */
+    text-align: center; /* Centers text for better readability */
+    font-size: 14px; /* Reduce font size for smaller screens */
+    padding: 0 10px; /* Add some padding to prevent edge touching */
+  }
+
+  .about .aboutBottom h1 {
+    font-size: 40px; /* Reduce heading size */
+    transform: translateY(-20px); /* Adjust position */
+  }
+
+  .about {
+    height: auto; /* Allow it to expand naturally */
+  }
+
+  .aboutTop {
+    height: 250px; /* Reduce image height */
+  }
+
+  .aboutBottom {
+    height: auto; /* Make it flexible */
+    margin-top: 20px; /* Reduce margin */
+  }
+}

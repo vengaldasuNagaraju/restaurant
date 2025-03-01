@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.101840e9.css",
+    "main.js": "/restaurant/static/js/main.c8598e9c.js",
+    "static/media/rajasthani.jpg": "/restaurant/static/media/rajasthani.ae32883353b0f39a3804.jpg",
+    "static/media/logo.png": "/restaurant/static/media/logo.019682feddc6460646b2.png",
+    "static/media/masala.jpg": "/restaurant/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/fooda.jpeg": "/restaurant/static/media/fooda.875b8ccf56acb74c6e73.jpeg",
+    "static/media/food.jpeg": "/restaurant/static/media/food.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/restaurant/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/restaurant/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/restaurant/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/restaurant/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/restaurant/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/restaurant/index.html",
+    "main.101840e9.css.map": "/restaurant/static/css/main.101840e9.css.map",
+    "main.c8598e9c.js.map": "/restaurant/static/js/main.c8598e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101840e9.css",
+    "static/js/main.c8598e9c.js"
+  ]
+}
